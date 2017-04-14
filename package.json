@@ -1,0 +1,26 @@
+{
+  "name": "file-tree-project",
+  "version": "1.0.0",
+  "description": "React + Koa DOM tree as file viewer project",
+  "main": "index.js",
+  "dependencies": {
+    "koa": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bc-jasond/file-tree-project.git"
+  },
+  "author": "Jason Dubaniewicz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bc-jasond/file-tree-project/issues"
+  },
+  "homepage": "https://github.com/bc-jasond/file-tree-project#readme",
+  "engines": {
+    "node": ">=7.6"
+  }
+}
